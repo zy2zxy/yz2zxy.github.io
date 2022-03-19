@@ -2,7 +2,8 @@
 找了很多背景音乐，只觉得这首合适  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=817880&auto=1&height=66"></iframe>
 
-想送给你**莫奈的日出（我们要永远地充满希望）** 和 **皮埃尔的夏日的花园（我真的很想像画中那样带你去看夏天的花园）**
+想送给你[莫奈的日出（我们要永远地充满希望）](https://github.com/zy2zxy/zy2zxy.github.io/blob/main/1.jpg)和[皮埃尔的夏日的花园（我真的很想像画中那样带你去看夏天的花园）](https://github.com/zy2zxy/zy2zxy.github.io/blob/main/2.jpg)
+
 <div style="text-align:center"><img src="https://github.com/zy2zxy/zy2zxy.github.io/blob/main/1.jpg" width = "300" height = "200" align=center/></div>
 <div style="text-align:center"><img src="https://github.com/zy2zxy/zy2zxy.github.io/blob/main/2.jpg" width = "300" height = "200" align=center/></div>
 
