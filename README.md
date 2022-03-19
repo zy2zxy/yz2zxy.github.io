@@ -43,7 +43,7 @@
 走到一个只有我们俩的地方，并摘花送给你
 <div style="text-align:center"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180206%2F4182bd9555b34a7aa3c17385d996e0fa.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650281365&t=0fc30051834ee5e475578350085a9ee0" width = "480" height = "320" align=center/></div>
 
-想在享受假期的日子里，和你躺在树林里的草丛上
+想在享受假期的日子里，一家人躺在树林里的草丛上
 <div style="text-align:center"><img src="https://pica.zhimg.com/80/v2-eda7020ddcd156d429e1285553dd31fd_720w.jpg?source=1940ef5c" width = "480" height = "320" align=center/></div>
 
 当然，也想和你一起去看海
