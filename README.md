@@ -2,6 +2,10 @@
 找了很多背景音乐，只觉得这首合适  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=817880&auto=1&height=66"></iframe>
 
+#### 2nd
+
+3月18，23：14晴
+
 我不知道该怎么表达我的心情。有些人，错不错过，无所谓。而有些人，比如你，我想永远、永远的珍惜下去。
 
 我们都有自己的规则去选择另一个人，比如性格、外表等等，更多时候，我们是靠无形的规则——感觉。不知道你能不能明白这句话，我遇到过性格非常好的，长得很好的，可是却没有那种感觉。记得第一次见你的时候，和你聊完，我的感觉非常强烈。我记得在最后问你我们交往下去的可能性，怕你在意我是外地人，我表面上故作镇静，在等你回答的间隙，我的心都要跳出来了。而对没有感觉的女生，我都避免任何肢体或语言的过分接触，以至于有女生问我是不是gay，我不作答（笑）。
@@ -21,14 +25,6 @@
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/1.jpg" width = "390" height = "260" align=center/></div>
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg" width = "390" height = "260" align=center/></div>
-
-
-#### 2nd
-
-3月18，23：14晴
-
-
-
 
 
 #### 1st
