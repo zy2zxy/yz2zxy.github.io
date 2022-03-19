@@ -4,10 +4,10 @@
 
 想送给你[莫奈的日出（我们要永远地充满希望）](https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/1.jpg)和[皮埃尔的夏日里的花园（我真的很想像画中那样带你去看夏天的花园）](https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg)
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/1.jpg" width = "360" height = "240" align=center/></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/1.jpg" width = "390" height = "260" align=center/></div>
 
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg" width = "360" height = "240" align=center/></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg" width = "390" height = "260" align=center/></div>
 
 #### 2nd
 
