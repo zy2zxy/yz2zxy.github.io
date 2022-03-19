@@ -14,7 +14,7 @@
 
 在离校那天，我也很想去见你。我的确很不擅长表达我内心的感情，记得上飞机前，我发给你陶喆的《爱，很简单》，其实是我很想对你说，我很喜欢你。我怕收到你的拒绝，手机都一直不敢开。回家后，我写给你学习笔记，有句话后面写着（what's this mean?），那时就想说，我每天都很想你，总想分享东西给你。
 
-在我未来的规划里，都有你。我想着我可以努力挣钱，然后就在太原全款买房，我们压力就小很多了，就可以快快乐乐做其他事情了。我想和你一起做很多的事情，如果你愿意去南方体验，我就带你看比长江更好的风景。在夏日的一天，躺在被树林围满的小湖边的草地上，享受微风的午后。在晚上的一条小道上，听知了和蛐蛐一鸣一鸣，仿佛走在朱自清的荷塘月色里。
+在我未来的规划里，都有你。我想着我可以努力挣钱，然后就在太原全款买房，我们压力就小很多了，就可以快快乐乐做其他事情了。我想和你一起做很多的事情（见下图），如果你愿意去南方体验，我就带你看比长江更好的风景。在夏日的一天，躺在被树林围满的小湖边的草地上，享受微风的午后。在晚上的一条小道上，听知了和蛐蛐一鸣一鸣，仿佛走在朱自清的荷塘月色里。
 
 此刻回想起过往，我总希望能有哆啦A梦的时光穿梭机。我总爱搞冷战，如果在第一次冷战，也就是快过完年那会，能和你好好说话，了解到你家里人的想法，会不会我们现在还好好的。如果开学那天没有删你，会不会我们现在还好好的。如果在你解封那天，我过去见你，倾听你的感受，会不会我们现在还好好的。
 
@@ -26,15 +26,28 @@
 
 一个人在五层办公室。
 
-想送给你[莫奈的日出（我们要永远地充满希望）](https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/1.jpg)和[皮埃尔的夏日里的花园（我真的很想像画中那样带你去看夏天的花园）](https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg)
+我把想和你一起做的事情用图片来表达。记得以前在家的时候我说我喜欢你，你说这么重要的事情怎么可以在微信上说，我想了好久，我就是个学计算机的，干啥也离不开计算机，你让我浪漫我也浪不起来。
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/1.jpg" width = "390" height = "260" align=center/></div>
+首先想送给你**莫奈的日出（我们要永远地充满希望）** 
+<div style="text-align:center"><img src="https://pic1.zhimg.com/v2-641fcf90c0cce22af1bb99d8018c5633_1440w.jpg?source=172ae18b" width = "390" height = "260" align=center/></div>
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg" width = "390" height = "260" align=center/></div>
+我想带你去看春天漫山遍野的油菜花
+<div style="text-align:center"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0612%2F33fc7152j00quk9yf003xc000m800g5m.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650281196&t=380ff4bce429f7f2db473537a603f65c" width = "390" height = "260" align=center/></div>
 
-<div style="text-align:center"><img src="https://img0.baidu.com/it/u=1322374876,2176291982&fm=253&fmt=auto&app=138&f=JPEG?w=699&h=500" width = "390" height = "260" align=center/></div>
+想和你走在夏天的白杨树下
+<div style="text-align:center"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2.027art.cn%2Fimg%2F2020%2F09%2F28%2F1601280644969122.jpg&refer=http%3A%2F%2Fimg2.027art.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650281179&t=902ad6b9147c79c8cfd686b77c4d92cf" width = "390" height = "260" align=center/></div>
 
-<div style="text-align:center"><img src="https://user-assets.sxlcdn.com/images/951993/ljvvuDyamJ3L-LWfyur8-8T-mlbj.jpg?imageMogr2/strip/auto-orient/thumbnail/250x1000%3E/quality/90!/interlace/1/format/jpeg" width = "390" height = "260" align=center/></div>
+想在你不高兴的时候在花丛里散心
+<div style="text-align:center"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201603%2F30%2F20160330203228_cEafL.thumb.700_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650281285&t=7e30dcd5e8a7d3a69323247a1b8c0d5a" width = "390" height = "260" align=center/></div>
+
+并摘花送给你
+<div style="text-align:center"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180206%2F4182bd9555b34a7aa3c17385d996e0fa.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650281365&t=0fc30051834ee5e475578350085a9ee0" width = "390" height = "260" align=center/></div>
+
+想在假期的某一天，和你躺在树林里的草丛上
+<div style="text-align:center"><img src="https://pica.zhimg.com/80/v2-eda7020ddcd156d429e1285553dd31fd_720w.jpg?source=1940ef5c" width = "390" height = "260" align=center/></div>
+
+想和你一起去看海
+<div style="text-align:center"><img src="https://pic2.zhimg.com/80/v2-66e5a82bf80d854de40d47f25e42fc61_720w.jpg?source=1940ef5c" width = "390" height = "260" align=center/></div>
 
 
 #### 1st
