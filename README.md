@@ -32,6 +32,8 @@
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg" width = "390" height = "260" align=center/></div>
 
+<div style="text-align:center"><img src="https://img0.baidu.com/it/u=1322374876,2176291982&fm=253&fmt=auto&app=138&f=JPEG?w=699&h=500" width = "390" height = "260" align=center/></div>
+
 <div style="text-align:center"><img src="https://user-assets.sxlcdn.com/images/951993/ljvvuDyamJ3L-LWfyur8-8T-mlbj.jpg?imageMogr2/strip/auto-orient/thumbnail/250x1000%3E/quality/90!/interlace/1/format/jpeg" width = "390" height = "260" align=center/></div>
 
 
