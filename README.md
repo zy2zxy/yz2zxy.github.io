@@ -32,10 +32,12 @@
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/zy2zxy/zy2zxy.github.io/main/2.jpg" width = "390" height = "260" align=center/></div>
 
+<div style="text-align:center"><img src="https://user-assets.sxlcdn.com/images/951993/ljvvuDyamJ3L-LWfyur8-8T-mlbj.jpg?imageMogr2/strip/auto-orient/thumbnail/250x1000%3E/quality/90!/interlace/1/format/jpeg" width = "390" height = "260" align=center/></div>
+
 
 #### 1st
 
-2 月26，20 点54，晴。我看着你说你很坚定的不想继续下去，躺在床上一刻也不想动，连眼睛都不想转动。
+2月26，20点54，晴。我看着你说你很坚定的不想继续下去，躺在床上一刻也不想动，连眼睛都不想转动。
 
 我不知道原本好好的关系，却变得争吵、对立。我非常的疑惑，我在想这个世界上充满各种各样可以学习的能力，人可以学会经济、法律、计算机⋯⋯，只要想学。可是我此时此刻只想知道我可不可以学会让一段关系永远的保持那样。
 
@@ -45,7 +47,7 @@
 
 这几天我每天都在忙着毕业的事，我的确知道失去你让我很难过，我想趴在宿舍与外界隔绝，可是我又必须跑来跑去弄毕业材料，只有中午和晚上我才能安静的躺下来想这些。白天在系楼遇到同学，我仍然可以正常的和他们有说有笑，可是我知道我心里很难过。在路上看见一些人，我在想他们有的人会不会也和我一样，表明上看起来什么事都没有，可是心里已经很难受了。以前听别人说什么感情的输赢，此时此刻，我忽然明白，输了又怎样，赢了又怎样，失去了喜欢的人，输和赢还有什么意义呢。
 
-2022 年3 月4 日，周五，晚。
+2022年3月4日，周五，晚。
 
 袁振
 
