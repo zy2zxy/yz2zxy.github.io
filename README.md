@@ -1,6 +1,10 @@
 找了很多背景音乐，只觉得这首合适  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=817880&auto=1&height=66"></iframe>
 
+还想送给你莫奈的日出和
+<div style="text-align:center"><img src="https://github.com/zy2zxy/zy2zxy.github.io/blob/main/1.jpg" width = "214" height = "214" align=center/></div>
+<div style="text-align:center"><img src="https://github.com/zy2zxy/zy2zxy.github.io/blob/main/1.jpg" width = "214" height = "214" align=center/></div>
+
 #### 2nd
 
 3月18，23：14晴
