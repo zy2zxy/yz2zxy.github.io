@@ -11,6 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=445154960&type=2&width=320&height=66" type="application/x-shockwave-flash"></object>
+
+
 # Header 1
 ## Header 2
 ### Header 3
