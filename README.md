@@ -1,6 +1,7 @@
 #### 1st
 
-[音乐](https://music.163.com/#/song?id=817880)
+我找了很多背景音乐，觉得这首合适~  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=817880&auto=1&height=66"></iframe>
+
 
 2 月26，20 点54，晴。我看着你说你很坚定的不想继续下去，躺在床上
 一刻也不想动，连眼睛都不想转动。
@@ -29,18 +30,4 @@
 了又怎样，失去了喜欢的人，输和赢还有什么意义呢。
 2022 年3 月4 日，周五，晚。
 袁振
-在办公室导师总说我不会表达自己，我写的
-
-
-### Markdown
-
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=817880&auto=1&height=66"></iframe>
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zy2zxy/zy2zxy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+在办公室导师总说我不会表达自己，我写的自己，我写的很乱，望理解。
