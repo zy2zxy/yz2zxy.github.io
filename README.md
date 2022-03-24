@@ -6,7 +6,7 @@
 [5. 想往后只记录美好](4.md)  
 
 <div style="text-align:center"><img src="https://pic2.zhimg.com/80/v2-95b000694b20445686dc488c8f27d0fd_720w.jpg" width = "480" height = "640" align=center/></div>
-<center>Only you</center>
+<center>满眼都是你</center>
 
 &emsp;&emsp;湖北高考英语是自主命题，在听力考试开始时都会有一段中文试音，我们听着都极度紧张。学校为了让我们适应，从初中开始，每天晚饭后都有听力模拟考，都会播放这个试音：  
 &emsp;&emsp;小车正穿行在落基山脉的蜿蜒曲折的盘山公路上，克利斯朵夫·李维静静地望着窗外，发现每当车子即将行驶到无路的关头，路边都会出现一块交通指示牌∶
