@@ -1,10 +1,12 @@
 #### <font face="Times New Roman" size=6>Letters for U</font><font color=red size=2>（点开标题）</font>  
+<center>如果有一天你看到这个网站（希望不会太久），这是我的电话（18435134434）和QQ/微信（1163660010），请找我:)（它们永远有效）</center>  
 [1. 遇见你，我就不想失去你](1.md)  
 [2. 想永远、永远地珍惜你](2.md)  
 [3. 想告诉，我很喜欢你](3.md)  
 [4. 矛盾常有，我想好好解决](5.md)  
 [5. 我和导师已经和解](6.md)  
-[6. 想往后只记录美好](4.md)  
+[6. 可能的疑问和解释](7.md)  
+[7. 想往后只记录美好](4.md)  
 
 <div style="text-align:center"><img src="https://pic2.zhimg.com/80/v2-95b000694b20445686dc488c8f27d0fd_720w.jpg" width = "480" height = "640" align=center/></div>
 <center>在我眼里，只觉得你最好</center>
