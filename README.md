@@ -7,7 +7,7 @@
 [4. 矛盾常有，我想好好解决](5.md)  
 [5. 我和导师已经和解](6.md)  
 [6. 可能的疑问和解释](7.md)  
-[7. 在图书馆找的关于爱情](8.md)  
+[7. 在图书馆找的，关于爱情](8.md)  
 [8. 想往后只记录美好](4.md)  
 
 <div style="text-align:center"><img src="https://pic2.zhimg.com/80/v2-95b000694b20445686dc488c8f27d0fd_720w.jpg" width = "480" height = "640" align=center/></div>
