@@ -18,6 +18,4 @@ overleaf：账号1163660010@qq.com密码yuan123456
 &emsp;&emsp;小车正穿行在落基山脉的蜿蜒曲折的盘山公路上，克利斯朵夫·李维静静地望着窗外，发现每当车子即将行驶到无路的关头，路边都会出现一块交通指示牌∶
 “前方转弯！”或“注意！急转弯”，而拐过每一道弯之后，前方照例又是一片柳暗花明、豁然开朗。山路弯弯，峰回路转，“前方转弯”几个大字一次次地冲击着他的眼球也渐渐叩开了他的心扉：原来，不是路已到了尽头，而是该转弯了。路在脚下，更在心中，心随路转，心路常宽。学会转弯也是人生的智慧，因为挫折往往是转折，危机同时是转机。  
 
-<iframe src="//player.bilibili.com/player.html?aid=637163276&bvid=BV1db4y1W7QX&cid=547133911&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
-
-<iframe src="//fn.music.163.com/g/mlog/mlog-mobile/landing/mlog?id=a11BReMr3kaB0q1r&type=2&userid=360886317&songId=5267256&startTime=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=463947875&bvid=BV1nL41137Nh&cid=433696229&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
